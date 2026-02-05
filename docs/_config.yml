@@ -1,0 +1,33 @@
+remote_theme: "daattali/beautiful-jekyll"
+title: "Akshay Adhao — Portfolio"
+email: "akshayadhao95@gmail.com"
+description: "Senior Data Engineer | ETL Engineer — Portfolio"
+url: "https://akshayadhao95.github.io"
+baseurl: "/portfolio"
+
+# Theme options (Beautiful Jekyll)
+show_theme: true
+paginate: 10
+
+# Author / Profile
+profile:
+  name: "Akshay Adhao"
+  bio: "Senior Data Engineer | ETL Engineer"
+  location: "Pune, Maharashtra, India"
+  email: "akshayadhao95@gmail.com"
+  github: "https://github.com/akshayadhao95"
+  linkedin: "https://www.linkedin.com/in/akshayadhao95"
+
+# Navigation (adjustable)
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Contact"
+    url: "/contact/"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
