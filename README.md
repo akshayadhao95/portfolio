@@ -1,5 +1,9 @@
 👋 Hi, I'm Akshay Adhao  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AkshayAdhao-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshayadhao95) [![Email](https://img.shields.io/badge/Email-akshayadhao95@gmail.com-c14438?logo=gmail&logoColor=white)](mailto:akshayadhao95@gmail.com) [![Followers](https://img.shields.io/github/followers/akshayadhao95?label=Follow&style=social)](https://github.com/akshayadhao95)
+
+[![Top Langs](https://img.shields.io/github/languages/top/akshayadhao95/portfolio)](https://github.com/akshayadhao95/portfolio) [![AWS](https://img.shields.io/badge/AWS-%23FF9900?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![Snowflake](https://img.shields.io/badge/Snowflake-3195FF?logo=snowflake&logoColor=white)](https://www.snowflake.com/) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![SQL](https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+
 🚀 **Senior Data Engineer | ETL Engineer**  
 📍 Pune, Maharashtra, India  
 
