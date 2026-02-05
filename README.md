@@ -1,55 +1,136 @@
-# Portfolio
+👋 Hi, I'm Akshay Adhao  
 
-A personal developer portfolio showcasing projects, skills, and contact information.
+🚀 **Senior Data Engineer | ETL Engineer**  
+📍 Pune, Maharashtra, India  
 
-## Overview
+📞 **Phone:** +91-8390674457  
+📧 **Email:** akshayadhao95@gmail.com  
 
-This repository contains a personal portfolio website built to showcase projects, blog posts, and contact details. It includes the source code, assets, and configuration needed to build and deploy the site.
+---
 
-## Features
+## 🧑‍💻 About Me  
 
-- Home page with introduction and highlights
-- Projects gallery with descriptions, links, and screenshots
-- Skills and technologies section
-- Blog (optional) for posts and articles
-- Contact form or contact information
+I am a **Data Engineer with 8+ years of experience** in designing, developing, and supporting large-scale **Data Warehousing** and **ETL solutions** across **Banking/Finance** and **Supply Chain** domains.  
 
-## Technologies
+I have strong hands-on expertise in **Ab Initio, SQL, Teradata, Oracle**, and modern cloud platforms like **AWS, Azure, Snowflake**, and **Matillion ETL**. I have worked in both **Agile** and **Waterfall** delivery models, handling end-to-end pipelines, performance tuning, automation, and production support.
 
-- HTML, CSS, JavaScript
-- (Optional) React / Next.js / Gatsby
-- (Optional) Tailwind CSS or other CSS framework
-- (Optional) Netlify / Vercel for deployment
+---
 
-## Installation
+## 🛠️ Tech Stack  
 
-1. Clone the repository:
+### 🔹 ETL & Data Integration  
+- Ab Initio (GDE, EME, Metadata Hub)  
+- Matillion ETL  
+- Qlik Replicate  
 
-   git clone https://github.com/akshayadhao95/portfolio.git
-2. Install dependencies (if the project uses a package manager):
+### 🔹 Databases & Data Warehousing  
+- Snowflake  
+- Teradata  
+- Oracle  
 
-   npm install
-   # or
-   yarn install
+### 🔹 Cloud Platforms  
+- AWS (S3, Redshift, EFS)  
+- Microsoft Azure  
 
-3. Run the development server:
+### 🔹 Programming & Scripting  
+- Advanced SQL  
+- Python  
+- Unix Shell Scripting  
 
-   npm start
-   # or
-   npm run dev
+### 🔹 Scheduling & Automation  
+- IBM Tivoli Workload Scheduler  
+- Autosys  
 
-## Deployment
+### 🔹 BI & Reporting  
+- Power BI  
+- Tableau  
 
-Build and deploy using your preferred hosting provider. For example, with Vercel or Netlify connect the repository and configure the build command (e.g., `npm run build`) and the publish directory (e.g., `out`, `build`, or `dist`).
+### 🔹 Methodologies  
+- Agile  
+- Waterfall  
 
-## Contributing
+---
 
-Contributions are welcome. Open an issue or submit a pull request with changes.
+## 💼 Professional Experience  
 
-## License
+### **Senior Data Engineer – IBM India Private Limited (Pune)**  
+📅 **July 2022 – Present**  
+- Designed and supported enterprise-scale ETL pipelines for Banking and Finance clients, ensuring data accuracy, performance, and compliance.  
+- Designed and implemented Ab Initio ETL pipelines to ingest and transform large-scale financial datasets into Snowflake, improving data availability and load performance.  
+- Collaborated with business analysts, architects, and QA teams to translate requirements into scalable technical solutions.  
+- Participated in Agile and Waterfall delivery models, contributing to sprint planning, estimations, and production support.  
+- Monitored and resolved ETL failures using Tivoli and Autosys, ensuring **99.9% data availability** for downstream reporting systems.  
+- Supported migration and integration initiatives involving Snowflake and cloud services.  
 
-Specify a license (e.g., MIT) or remove this section if not applicable.
+---
 
-## Author
+### **Consultant – Capgemini Technology Services India Limited (Pune)**  
+📅 **July 2020 – July 2022**  
+- Participated in planning, design, and execution of ETL architecture using Ab Initio for Oracle-based data warehouses.  
+- Developed and optimized ETL graphs using Rollup, Scan, Reformat, Sort, and parallelism techniques.  
+- Implemented performance tuning and graph optimization to improve load efficiency.  
+- Managed code promotions across development, QA, and production environments.  
+- Worked closely with onsite teams and stakeholders to deliver stable and scalable data solutions.  
 
-- GitHub: @akshayadhao95
+---
+
+### **Programmer – Bitwise Solutions Private Limited (Pune)**  
+📅 **August 2017 – June 2020**  
+- Developed ETL applications using Ab Initio GDE, EME, Metadata Hub, and Teradata in a Linux environment.  
+- Used Ab Initio `air` and `m` commands for deployment, execution, and monitoring.  
+- Scheduled and automated ETL workflows using IBM Tivoli Workload Scheduler and Autosys.  
+- Designed complex SQL queries and reports for Metadata Hub and dependency analysis.  
+- Supported production jobs and resolved data and performance issues.  
+
+---
+
+## 🎓 Education  
+
+🎓 **Bachelor of Engineering (Information Technology)**  
+🏫 RTM Nagpur University  
+📅 **2013 – 2017** | **CGPA: 7.36**  
+
+---
+
+## 📜 Certifications  
+
+- Python for Data Science, IBM Certified, Apr 2025  
+- AWS Partner – Gen AI Essentials, Apr 2024  
+- Matillion, Apr 2024  
+- Agile Software Development, University of Minnesota, June 2021  
+- Introduction to SQL, University of Michigan, June 2021  
+- The Unix Workbench, Johns Hopkins Bloomberg School of Public Health, Jun 2021  
+- Programming for Everybody (Python), University of Michigan, Issued Jul 2020  
+- Python Data Structures, University of Michigan, Issued Jul 2020  
+
+---
+
+## 📌 Featured Expertise  
+
+✅ ETL Development using Ab Initio  
+✅ Snowflake Data Warehousing & Cloud Migration  
+✅ Performance Tuning & Optimization  
+✅ Production Support & Monitoring  
+✅ Scheduling & Automation using Tivoli and Autosys  
+✅ SQL + Python Development for Data Pipelines  
+
+---
+
+## 📂 Projects (Coming Soon 🚧)  
+
+I will be uploading reusable templates and frameworks for:  
+- Snowflake SQL Optimization  
+- Data Quality Frameworks  
+- ETL Incremental Load Templates  
+- SCD Type 1 / Type 2 Implementation  
+- Monitoring & Cost Control Queries  
+
+---
+
+## 🤝 Connect With Me  
+
+📧 Email: **akshayadhao95@gmail.com**  
+📞 Phone: **+91-8390674457**  
+📍 Location: **Pune, Maharashtra, India**  
+
+---
